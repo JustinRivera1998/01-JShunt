@@ -1,29 +1,26 @@
-# Scavenger Hunt - Instructions
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
-1. Fork this repository on GitHub
-2. Clone it to your Cloud9 VM:
 
-   ```Bash
-   $ git clone <your repo's address>
-   ```
+Hi there! Welcome to Cloud9 IDE!
 
-3. Solve
-   [clues](https://github.com/ScriptEdcurriculum/curriculum2015/blob/master/unitsYear2/1-JShunt/clues/README.md)
-   and save under `solutions` directory (separate directory for each clue)
-4. Commit your changes:
+To get you started, we included a small hello world application.
 
-   ```Bash
-   $ git add . # to stage all your changes
-   $ git commit -am 'commit message here' # to commit
-   ```
+1) Open the hello-world.html file
 
-4. Push to your repository on GitHub:
+2) Click on the Preview button to open a live preview pane
 
-   ```Bash
-   $ git push origin master
-   ```
+3) Make some changes to the file, save, watch the preview, and have fun!
 
-5. Open a Pull Request (PR) to the original fork (TpTScriptEd's)
-6. Submit a link to your PR
-   [here](https://docs.google.com/forms/d/1KbaHfDjgmVDn1446ow7tUjssfNKlrqC9RBnTznNqZgE/viewform)
+Happy coding!
+The Cloud9 IDE team
 
+
+## Support & Documentation
+
+Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
+To watch some training videos, visit http://www.youtube.com/user/c9ide
